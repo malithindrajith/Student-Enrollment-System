@@ -7,6 +7,8 @@ Purpose
 The system simplifies the enrollment process for students and staff, reducing manual effort, minimizing errors, and ensuring efficient data handling.
 
 Key Features
+
+
 Student Registration
 
 Easy sign-up for new students with required personal, academic, and demographic details.
@@ -42,7 +44,9 @@ Communication between faculty, staff, and students.
 Integration with Other Systems
 
 Links to Learning Management Systems (LMS), grade books, and attendance systems for a holistic solution.
+
 Benefits
+
 Efficiency: Reduces manual work for staff and shortens the enrollment timeline.
 Accuracy: Minimizes errors in data entry and record-keeping.
 Accessibility: Students can enroll from anywhere via web or mobile interfaces.
