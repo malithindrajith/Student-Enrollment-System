@@ -13,7 +13,10 @@ Administrative tools to:
 Track enrollments
 Generate reports
 Manage course capacities
+
 Project Structure
+
+
 student_enrollment_system/
 ├── models/
 │   ├── __init__.py            # Initializes the models package
@@ -27,6 +30,9 @@ student_enrollment_system/
 │   └── instructor.py          # Instructor class
 └── main.py                    # Demonstrates the interaction between classes
 Key Entities
+
+
+
 Student: Manages student attributes like ID, name, and email, and handles course registration.
 Course: Represents courses with details like course ID, name, and credits, and handles students and instructors.
 Enrollment: Tracks the association between students and courses, along with enrollment dates and grades.
