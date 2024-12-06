@@ -48,10 +48,9 @@ Assignment: Tracks course assignments and their submissions.
 
 Getting Started
 
-Clone the repository:
+ 
 
-git clone https://github.com/your-username/student-enrollment-system.git
-
+ 
 Navigate to the project directory:
 
 cd student_enrollment_system
