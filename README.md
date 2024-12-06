@@ -14,22 +14,10 @@ Track enrollments
 Generate reports
 Manage course capacities
 
-Project Structure
+ 
 
 
-student_enrollment_system/
-├── models/
-│   ├── __init__.py            # Initializes the models package
-│   ├── attendance.py          # Attendance class
-│   ├── student.py             # Student class
-│   ├── enrollment.py          # Enrollment class
-│   ├── grade_report.py        # GradeReport class
-│   ├── assignment.py          # Assignment class
-│   ├── course.py              # Course class
-│   ├── department.py          # Department class
-│   └── instructor.py          # Instructor class
-└── main.py                    # Demonstrates the interaction between classes
-Key Entities
+ 
 
 
 
